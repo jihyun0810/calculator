@@ -43,6 +43,7 @@ int add(int number1, int number2)
 int sub(int number1, int number2)
 {
 	//TODO implementation
+a=a-8;
 	return 0;
 }
  
